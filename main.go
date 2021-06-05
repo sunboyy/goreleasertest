@@ -9,4 +9,6 @@ func init() {
 func main() {
 	fmt.Println("Ba dum, tss!")
 	fmt.Println("Sunboyy Orz")
+	fmt.Println("U gonna miss me!!!!")
+	fmt.Println("TwT")
 }
